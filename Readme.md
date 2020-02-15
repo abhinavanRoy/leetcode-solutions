@@ -2,7 +2,7 @@
 
 In this repository of C++ programming i am going to concentrate on Data Structres including: Arrays - Linked List - Stacks - Queues - Trees
 
-1. Arrays
+**1. Arrays**
 
 -> An array is defined as a collection of data elements of the same type(same datatype) that are stored in contagious memory locations.
 -> The size of an array is fixed and hence once declared the size of the array cannot be changed.
@@ -15,7 +15,7 @@ The array section will have the following programs:
 * Deleting an element from an array.
 * Left rotation of array elements.
 
-2. Linked List
+**2. Linked List**
      
 -> A linked list can defined as a group or collection of nodes which are interconnected through a link, hence called linked lists.
 -> A node in a linked list consists of two parts 1.The data part which consists of value/data.
@@ -27,7 +27,7 @@ The array section will have the following programs:
 
 Linked lists are of the following types:
 
-* Simple Linked List
+*** Simple Linked List**
 
 ->In simple linked list we have:
 
