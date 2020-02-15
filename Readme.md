@@ -27,7 +27,7 @@ The array section will have the following programs:
 
 Linked lists are of the following types:
 
-*** Simple Linked List**
+**Simple Linked List**
 
 ->In simple linked list we have:
 
