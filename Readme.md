@@ -1,4 +1,4 @@
-DATA STRUCTURES
+**DATA STRUCTURES**
 
 In this repository of C++ programming i am going to concentrate on Data Structres including: Arrays - Linked List - Stacks - Queues - Trees
 
@@ -15,8 +15,34 @@ The array section will have the following programs:
 * Deleting an element from an array.
 * Left rotation of array elements.
 
-**Further topics and programs will be added soon in future** 
+2. Linked List
+     
+-> A linked list can defined as a group or collection of nodes which are interconnected through a link, hence called linked lists.
+-> A node in a linked list consists of two parts 1.The data part which consists of value/data.
+                                                 2.The address part stores the address of the next node in the linked list.
 
+-> Linked list does not store its nodes in contagious memory locations.
+-> Linked list does not allow random access of data that is to access a particular node we have to traverse the entire list till the node      
+   is found.
+
+Linked lists are of the following types:
+
+* Simple Linked List
+
+->In simple linked list we have:
+
+* Add node at the start of list
+* Add node at the end of the list
+* Add node after a node particular data
+* Add node before a node of particular data
+* Delete a node from the beginning of list
+* Delete a node from the end of list
+* Delete a node after a given node
+
+    
+
+                                         **Further topics and programs will be added soon in future** 
+ 
 
 
 
