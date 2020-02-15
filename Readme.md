@@ -40,8 +40,7 @@ Linked lists are of the following types:
 * Delete a node after a given node
 
     
-
-                                         **Further topics and programs will be added soon in future** 
+**Further topics and programs will be added soon in future** 
  
 
 
